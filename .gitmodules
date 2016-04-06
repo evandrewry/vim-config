@@ -102,9 +102,6 @@
 [submodule "bundle/vim-colors-candycode"]
 	path = bundle/vim-colors-candycode
 	url = https://github.com/vim-scripts/candycode.vim.git
-[submodule "bundle/syntastic"]
-	path = bundle/syntastic
-	url = git://github.com/scrooloose/syntastic.git
 [submodule "bundle/vim-colors-sampler"]
 	path = bundle/vim-colors-sampler
 	url = https://github.com/vim-scripts/Color-Sampler-Pack.git
@@ -168,3 +165,6 @@
 [submodule "bundle/vim-cdo"]
 	path = bundle/vim-cdo
 	url = git@github.com:Peeja/vim-cdo.git
+[submodule "bundle/swift.vim"]
+	path = bundle/swift.vim
+	url = https://github.com/keith/swift.vim.git
