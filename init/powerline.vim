@@ -1,2 +1,2 @@
-let g:Powerline_symbols = 'fancy'
-set encoding=utf-8 " Necessary to show unicode glyphs
+let g:airline_theme='tomorrow'
+let g:airline_powerline_fonts = 1
